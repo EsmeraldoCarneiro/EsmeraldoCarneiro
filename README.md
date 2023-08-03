@@ -30,10 +30,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EsmeraldoCarneiro/EsmeraldoCarneiro/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [EsmeraldoCarneiro/snk](https://github.com/EsmeraldoCarneiro/snk)_
-
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 </div>
