@@ -24,7 +24,10 @@
 
   <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ## 🏆 GitHub troféus
+## 🏆 GitHub troféus
 ![](https://github-profile-trophy.vercel.app/?username=EsmeraldoCarneiro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 </div>
