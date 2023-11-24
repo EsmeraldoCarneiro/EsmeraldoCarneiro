@@ -1,6 +1,6 @@
 <link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-### Olá!! eu sou o Esmeraldo Carneiro 👋
+### Olá!! eu sou o EsmeraldoCarneiro 👋
 
 - :computer: Sou estudande de ADS
 
@@ -17,15 +17,11 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png">
   <img src="https://img.icons8.com/color/48/000000/react-native.png">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"> 
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/><br>
-  <div style="display: inline_block"><br>
-  <img align = "center" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" height="150" ><br><br> 
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"><br><br>  
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
+  <img align = "center" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" height="150" >
+  
 
-  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- 
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+  
+ ![Snake animation](https://github.com/EsmeraldoCarneiro/EsmeraldoCarneiro/blob/output/github-contribution-grid-snake.svg)
+    </div>    
