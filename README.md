@@ -78,4 +78,8 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/esmeraldocarneiro/esmeraldocarneiro/output/pacman-contribution-graph.svg">
 </picture>
 
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=esmeraldocarneiro&show_icons=true&theme=tokyonight)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=esmeraldocarneiro&layout=compact&theme=tokyonight)
+
 ###
