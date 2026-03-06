@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=esmeraldocarneiro.esmeraldocarneiro&" />
+  <img src="https://raw.githubusercontent.com/esmeraldocarneiro/esmeraldocarneiro/main/github-metrics.svg" />
 </div>
 
 ###
