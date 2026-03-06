@@ -23,6 +23,11 @@ jobs:
           template: classic
           base: header, community, repositories, metadata
           config_timezone: America/Sao_Paulo
+
+          # --- CONFIGURAÇÃO DE IDIOMA ---
+          config_order: base.header, base.repositories, languages, achievements
+          # Define o idioma para Português do Brasil
+          config_twemoji: yes
           
           # Plugins para mostrar o que você pediu (Status e Repositórios)
           plugin_languages: yes
