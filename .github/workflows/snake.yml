@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule: # Roda a cada 24 horas
-    - cron: "0 0 * * *" 
+    - cron: "*/30 * * * *" 
   workflow_dispatch: # Permite rodar manualmente
   push:
     branches:
