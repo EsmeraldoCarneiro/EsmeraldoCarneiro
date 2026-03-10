@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*<h2 align="left">Hi 👋! My name is Esmeraldo Carneiro and I am a Systems Analyst and Developer from Brazil.</h2>*
-<h2 align="left">Oi 👋! Meu nome é Esmeraldo Carneiro e sou Analista e Desenvolvedor de Sistemas, do Brasil.</h2>
+<h3 align="left">Hi 👋! My name is Esmeraldo Carneiro and I am a Systems Analyst and Developer from Brazil. <br>Oi 👋! Meu nome é Esmeraldo Carneiro e sou Analista e Desenvolvedor de Sistemas, do Brasil.</h2>
+<h2 align="left"></h2>
 
 
 
@@ -90,11 +90,6 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/esmeraldocarneiro/esmeraldocarneiro/main/github-metrics.svg" />
-</div>
-
-###
 
 
 
